@@ -12,11 +12,11 @@ Built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.co
 ## Running Locally
 
 ```sh-session
-git clone https://github.com/niladri-d/AIassistant.git
+git clone https://github.com/Beta-AI-Pro/AIassistant.git
 cd AIassistant
 ```
 
-Create a `.env` file similar to [`.env.example`](https://github.com/niladri-d/AIassistant/blob/main/.env.example).
+Create a `.env` file similar to [`.env.example`](https://github.com/Beta-AI-Pro/AIassistant/blob/main/.env.example).
 
 Then install dependencies and run the development server:
 ```sh-session
